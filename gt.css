@@ -1,6 +1,8 @@
 ﻿.tq {
     background: #ffaf4c;
     text-align: left;
+    max-width: 98%;
+    padding-top: 5px;
 }
 .tq img {
 max-width:98%;
