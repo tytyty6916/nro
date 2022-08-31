@@ -56,8 +56,7 @@ color:white;
 }
 .nutchuyentrang {
     background-color: #ffaf4d;
-    padding-left: 33rem;
-    padding-bottom: 12px;
+    padding-bottom: 32.2rem;
 }
 .nut1 {
     font-size: 10px;
@@ -93,3 +92,46 @@ color:white;
 .footer {
     height: 100px;
 }
+.tdetable {
+    width: 33%;
+    color: #fff;
+    line-height: 22px;
+    font-weight: 700;
+}
+.tenbang {
+    float: left;
+    width: 100%;
+    color: #fff;
+    line-height: 22px;
+    font-weight: 700;
+}
+.bagsucmanh {
+    background-color: #d35220;
+}
+    .bagsucmanh td {
+        color: #fff;
+        line-height: 22px;
+        font-weight: 700;
+    }
+tbody a {
+    font-weight: 400;
+}
+.menu1 {
+    line-height: 22px;
+    text-align: center;
+    color: #fff;
+    background-color: #924c31;
+}
+.menu1box {
+    width: 25%;
+    border: 2px solid #FFAF4D;
+    padding: 2px;
+    color: #fff;
+}
+.menu1 a{
+    color:white;
+}
+    .menu1 a:hover {
+        color: #ffeb3b;
+        text-decoration: underline;
+    }
